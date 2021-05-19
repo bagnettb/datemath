@@ -1,0 +1,75 @@
+
+D:\Docs\batch\datemath>echo off 
+:
+:          ---  Date Math  ---
+:
+:
+:
+:
+:      --- Daily Date CountDown  ---
+:
+
+--- New_Years_Day ---
+-137
+228
+
+--- Dad's_Cynthia's_BD ---
+-113
+252
+
+--- Mom's_BD ---
+-108
+257
+
+--- Rachel's_n_Cynthia's_BD ---
+-94
+271
+
+--- Anniversary ---
+-89
+276
+
+--- Pat's_n_Harrys_BD ---
+-62
+303
+
+--- Mothers_Day_2021 ---
+-9
+356
+
+--- Aimee's_BD ---
+-3
+362
+
+--- Memorial_Day ---
+13
+
+--- Independence_Day ---
+48
+
+--- Richard's_BD ---
+56
+
+--- Gina's_BD ---
+81
+
+--- Missy's_BD ---
+97
+
+--- Labor_Day ---
+111
+
+--- Peggy's_BD ---
+146
+
+--- Columbus_Day ---
+146
+
+--- Veterans_Day ---
+177
+
+--- Thanksgiving_Day ---
+191
+
+--- Christmas_Day ---
+221
