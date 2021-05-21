@@ -2,7 +2,7 @@
 # windows batch program that counts down days to events created by user
 #
 #
-# create a new repository on the command line
+# update from dev_02 at 1742
 #
 echo "# edw" >> README.md
 git init
