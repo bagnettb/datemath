@@ -22,7 +22,10 @@
 echo off
 SETLOCAL EnableDelayedExpansion
 call ::settup
-set dsktp=D:\Desktop
+:: Note how the quotes are used to enable spaces in the value
+::set "dsktp=C:\Users\brianbagnetto\OneDrive - DTSI\Desktop"
+set "dsktp=C:\Users\brianbagnetto\OneDrive - DTSI\Desktop"
+echo %dsktp%
 @echo :
 @echo :          ---  Date Math  ---
 @echo :
@@ -86,6 +89,7 @@ goto :eof
 ::
 :: ------------------- < reenaym > -------------------
 ::
+:: Had to add double quotes around %dsktp% because it has spaces in it
 :: Display number of dats in a filename on the computer desktop
 :: Rename desktop file as xx-days_2021-05-01.url
 ::
@@ -94,7 +98,7 @@ goto :eof
 ::
 :reenaym
 
-FOR /F  %%G IN ('dir /b %dsktp%\*-days*.url') DO ( 
+FOR /F  %%G IN ('dir /b "%dsktp%\*-days*.url"') DO ( 
 set l_ff=%%G
 rename "%dsktp%\!l_ff!" %_dd_int%-days_%YY%-%MM%-%DD%.url
 )

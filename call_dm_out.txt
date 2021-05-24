@@ -1,5 +1,6 @@
 
-D:\Docs\batch\datemath>echo off 
+C:\Users\brianbagnetto\datemath>echo off 
+C:\Users\brianbagnetto\OneDrive - DTSI\Desktop
 :
 :          ---  Date Math  ---
 :
@@ -10,66 +11,66 @@ D:\Docs\batch\datemath>echo off
 :
 
 --- New_Years_Day ---
--137
-228
+-143
+222
 
 --- Dad's_Cynthia's_BD ---
--113
-252
+-119
+246
 
 --- Mom's_BD ---
--108
-257
+-114
+251
 
 --- Rachel's_n_Cynthia's_BD ---
--94
-271
+-100
+265
 
 --- Anniversary ---
--89
-276
+-95
+270
 
 --- Pat's_n_Harrys_BD ---
--62
-303
+-68
+297
 
 --- Mothers_Day_2021 ---
+-15
+350
+
+--- Aimee's_BD ---
 -9
 356
 
---- Aimee's_BD ---
--3
-362
-
 --- Memorial_Day ---
-13
+7
 
 --- Independence_Day ---
-48
+42
 
 --- Richard's_BD ---
-56
+50
 
 --- Gina's_BD ---
-81
+75
 
 --- Missy's_BD ---
-97
+91
 
 --- Labor_Day ---
-111
+105
 
 --- Peggy's_BD ---
-146
+140
 
 --- Columbus_Day ---
-146
+140
 
 --- Veterans_Day ---
-177
+171
 
 --- Thanksgiving_Day ---
-191
+185
 
 --- Christmas_Day ---
-221
+215
